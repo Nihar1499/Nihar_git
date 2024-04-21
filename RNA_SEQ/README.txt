@@ -1,0 +1,1 @@
+Goal: to build a nextflow pipeline to perform RNA seq analysis
